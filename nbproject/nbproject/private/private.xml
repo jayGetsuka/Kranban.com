@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/kranban/web/register.html</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/kranban/src/java/control/Logout.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/kranban/src/java/control/LoginServlet.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/kranban/src/java/model/DatabaseConnection.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/kranban/src/java/control/Register.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/kranban/web/TypeQuestion.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/kranban/web/index.html</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/kranban/src/java/control/Typequestion.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/kranban/web/style.css</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/kranban/web/Error.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/kranban/src/java/control/Answer.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/kranban/web/Login.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/kranban/web/navbarWeb.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/kranban/web/editInformation.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/kranban/src/java/control/editServlet.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/kranban/web/META-INF/context.xml</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/kranban/web/QuestionMe.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/kranban/src/java/control/Delete.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/kranban/web/Answer.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/kranban/src/java/control/AddAsk.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/kranban/src/java/model/User.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/kranban/web/Addask.jsp</file>
+        </group>
+    </open-files>
+</project-private>
