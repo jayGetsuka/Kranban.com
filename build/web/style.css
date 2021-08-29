@@ -1,0 +1,328 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
+@import url('bootstrap-4.1.3-dist/css/bootstrap.min.css');
+@import url('https://fonts.googleapis.com/css2?family=Otomanopee+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+html,body {
+    margin: 0;
+    padding: 0;
+}
+.bg_image{
+    background-color:#30302d;
+    background-size: cover;
+
+}
+#bg{
+    width:290px;
+    height:50px;
+    padding-left: 15px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+}
+textarea:focus, input:focus{
+    outline: none;
+}
+input {
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: groove;
+    background-color:white;
+}
+input:hover {
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: groove;
+    background-color:azure;
+}
+button[type="submit"]{
+    background-color:white;
+    color:black;
+    font-family: Kanit;
+    font-size:large;
+    margin-top:10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 2px;
+    padding-bottom:2px;
+}
+button[type="submit"]:hover{
+    font-family: Kanit;
+    font-size:large;
+    margin-top:10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 2px;
+    padding-bottom:2px;
+    background-color:black;
+    color:white;
+}
+h1.title{
+    color:#2bad0a;
+    font-size: 50px;
+    margin-top: 5%;
+    position: relative;
+    left: 35%;
+    font-family: 'Permanent Marker', cursive;
+
+}
+div.container-login{
+    background-color:#de4953;
+    margin-top: 3%;
+    border: 1px solid black;
+    width: 400px;
+    height: 500px;
+    position: relative;
+    left: 34%;
+    border-radius: 5%;
+
+}
+div.container{
+    background-color:white;
+    margin-top: 3%;
+    border: 1px solid black;
+    width: 400px;
+    height: 500px;
+    position: absolute;
+    left: 34%;
+    border-radius: 5%;
+}
+.tilte-ask{
+    margin-top:15px;
+    text-align: center;
+    font-family: Kanit;
+    font-size:xx-large;
+}
+.container>h2{
+    margin-top:15px;
+    text-align: center;
+    font-family: Kanit;
+    font-size:xx-large;
+}
+div.container>form>button[type="submit"]{
+    font-family: Kanit;
+    font-size:large;
+    margin-top:20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 2px;
+    padding-bottom:2px;
+
+}
+
+div.container-login>h2{
+    margin-top:15px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-family: Kanit;
+    font-size:xx-large;
+}
+div.container-login>form{
+    text-align: center;
+    font-family: Kanit;
+    font-size:larger;
+}
+.tb_center{
+    width: 300px;
+    height: 300px;
+    margin-top:20px;
+    position:relative;
+    left:14%;
+}
+
+div.container-login>form>input[type="text"]{
+    font-family: Kanit;
+    font-size:large;
+    border-radius: 5px;
+    width: 80%;
+    height:30px;
+    margin-top: 20px;
+    margin-bottom:20px;
+
+}
+
+div.container-login>form>input[type="password"]{
+    font-family: Kanit;
+    font-size: large;
+    border-radius: 5px;
+    width: 80%;
+    height:30px;
+    margin-top: 20px;
+    margin-bottom:5px;
+
+}
+div.container-login>form>button[type="submit"]{
+    font-family: Kanit;
+    font-size:large;
+    margin-top:20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 2px;
+    padding-bottom:2px;
+
+}
+a.forgot_passwd{
+    font-size: small;
+    color:white;
+    position:absolute;
+    right:10%;
+
+
+}
+a.forgot_passwd:hover{
+    font-size: small;
+    position:absolute;
+    right:10%;
+    color:black;
+
+}
+div.container-login>p.signup{
+    margin-top: 30px;
+    font-family: Kanit;
+    text-align:center;
+}
+
+.welcome{
+    font-size:x-large;
+    text-align: center;
+    margin-top:1%;
+    font-family: Kanit;
+    color:white;
+}
+form>.btn-submit{
+    font-family: Kanit;
+    position:absolute;
+    left:46%;
+    color:white;
+    background-color:#47f20f;
+    padding-top:5px;
+    padding-bottom:5px;
+    padding-right:30px;
+    padding-left:30px;
+    margin-top:100px;
+}
+form>.btn-submit:hover{
+    font-family: Kanit;
+    position:absolute;
+    left:46%;
+    color:#47f20f;
+    background-color:white;
+    padding-top:5px;
+    padding-bottom:5px;
+    padding-right:30px;
+    padding-left:30px;
+    margin-top:100px;
+}
+.title_index{
+    margin-top:5%;
+    color:#2060e8;
+    text-align: center;
+    font-family:Otomanopee One;
+    font-size:100px;
+}
+.container>form>label{
+    font-family: Kanit;
+}
+.container>form>select{
+    font-family: Kanit;
+    border-radius:5px;
+}
+a{
+    color:white;
+}
+a:hover{
+    color:grey;
+}
+a.login{
+    color:#ebe705;
+}
+a.login:hover{
+    color:grey;
+}
+
+table.tablecenter{
+    position:relative;
+    left: 400px;
+    width: 700px;
+
+
+}
+tr.row{
+    margin:5px;
+    padding:5px;
+}
+.grid-display{
+    margin:20px;
+    display:grid;
+    grid-template-columns:32% 32% 32% ;
+    grid-row-gap: 20px;
+    grid-column-gap: 20px;
+    background-color:whitesmoke;
+    padding: 10px;
+
+}
+.grid-display > div {
+    border-radius: 7px;
+    padding:10px;
+    background-image: url("image/ดาวน์โหลด.jfif");
+    background-size: auto;
+    font-family: Kanit;
+    color:white;
+}
+textarea.answer{
+    padding:5px;
+    margin:5px;
+    border-radius: 10px;
+    border-color: black;
+}
+textarea.answer:active{
+    padding:5px;
+    margin:5px;
+    border-radius: 10px;
+    border-color: black;
+}
+button[type="submit"].green{
+    color:white;
+    background-color:#1CCA07;
+    position:relative;
+    left:10px;
+    bottom:10px;
+}
+button[type="submit"].green:hover{
+    color:white;
+    background-color:black;
+    position:relative;
+    left:10px;
+    bottom:10px;
+}
+.grid-display > div > div.textanswer{
+    width:100px;
+    height:auto;
+    background-color:burlywood;
+    color:grey;
+    border-radius: 5px;
+    margin:10px;
+    padding:5px;
+
+}
+.indexP{
+    color:white;
+    font-size: 20px;
+    font-family: Kanit;
+    position: absolute;
+    left:25%;
+}
+
+
+
+
+
